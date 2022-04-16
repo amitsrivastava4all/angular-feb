@@ -1,0 +1,21 @@
+{
+	"products": [{
+			"id": 1001,
+			"name": "Apple Iphone 13",
+			"price": 100000,
+			"image": "https://cdn.shoplightspeed.com/shops/645668/files/40175469/image.jpg"
+		},
+		{
+			"id": 1002,
+			"name": "Samsung Galaxy",
+			"price": 50000,
+			"image": "https://cdn.shopify.com/s/files/1/0511/4914/4215/products/samsunggalaxya01_256x256.png"
+		},
+		{
+			"id": 1003,
+			"name": "Moto",
+			"price": 10000,
+			"image": "https://cdn2.iconfinder.com/data/icons/Mobile_Device_Icons_by_pierocksmysocks/Mobile%20Device%20Icons%20256/Motorola%20Q9.png"
+		}
+	]
+}
